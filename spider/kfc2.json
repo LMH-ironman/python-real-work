@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 21
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 11,
+      "storeName": "中宇广场",
+      "addressDetail": "芙蓉新城百旺路南侧H5-02号中宇广场首层1001号商铺",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 12,
+      "storeName": "中宇广场",
+      "addressDetail": "芙蓉新城百旺路南侧H5-02号中宇广场首层1001号商铺",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 13,
+      "storeName": "乳源",
+      "addressDetail": "乳城镇鹰峰东路北侧（宝源大厦西侧）地块荟聚轩",
+      "pro": "24小时,Wi-Fi,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 14,
+      "storeName": "乳源",
+      "addressDetail": "乳城镇鹰峰东路北侧（宝源大厦西侧）地块荟聚轩",
+      "pro": "24小时,Wi-Fi,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 15,
+      "storeName": "丹霞大道",
+      "addressDetail": "丹霞大道北君临新天地广场肯德基",
+      "pro": "Wi-Fi,点唱机,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 16,
+      "storeName": "丹霞大道",
+      "addressDetail": "丹霞大道北君临新天地广场肯德基",
+      "pro": "Wi-Fi,点唱机,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 17,
+      "storeName": "翁源",
+      "addressDetail": "0-3商铺龙仙镇滨河东路9号龙湖广场首层S128、S129A、S130-1A、S13",
+      "pro": "Wi-Fi,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 18,
+      "storeName": "翁源",
+      "addressDetail": "0-3商铺龙仙镇滨河东路9号龙湖广场首层S128、S129A、S130-1A、S13",
+      "pro": "Wi-Fi,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 19,
+      "storeName": "碧城广场",
+      "addressDetail": "西联镇丹霞大道中碧城广场.碧乐坊第一层编号为【801、850】号商铺",
+      "pro": "点唱机,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 20,
+      "storeName": "碧城广场",
+      "addressDetail": "西联镇丹霞大道中碧城广场.碧乐坊第一层编号为【801、850】号商铺",
+      "pro": "点唱机,店内参观,手机点餐",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    }
+  ]
+}

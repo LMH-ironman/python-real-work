@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 21
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "仁化",
+      "addressDetail": "建设路29号丹霞步行街首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "韶关亿和",
+      "addressDetail": "风度中路亿和广场首层A区A01号",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "韶关风度名城",
+      "addressDetail": "韶关解放路1号风度名城首、二层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "顺易",
+      "addressDetail": "顺易华庭帝景轩J7栋首层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "体育中心",
+      "addressDetail": "新华南路16号世纪新城首层23-32号铺",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "南雄",
+      "addressDetail": "南雄三影塔广场12号楼1层",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "沙洲路",
+      "addressDetail": "西河沙洲尾“芙蓉新城”南枫碧水花城E1栋59-62号铺",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "新丰",
+      "addressDetail": "丰城街道人民东路30号东盛广场首层A1019、A1020、A1021、A1",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "芙蓉DT",
+      "addressDetail": "西联镇丹霞大道中路肯德基（芙蓉DT）汽车穿梭餐厅",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "韶南大道DT",
+      "addressDetail": "狮岩三路8号（曲江碧桂园）2号商业楼01商铺",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观",
+      "provinceName": "广东省",
+      "cityName": "韶关市"
+    }
+  ]
+}
